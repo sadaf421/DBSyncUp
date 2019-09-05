@@ -1,0 +1,17 @@
+insert into emp1(eid, ename, sal, deptid, loc)values('4',	'ename4',	'100',	'111',	'loc4');
+insert into emp1(eid, ename, sal, deptid, loc)values('9',	'ename9',	'100',	'9',	'loc9');
+insert into emp1(eid, ename, sal, deptid, loc)values('11',	'ename11',	'100',	'1',	'loc1');
+insert into emp1(eid, ename, sal, deptid, loc)values('25',	'ename25',	'100',	'5',	'loc5');
+insert into emp1(eid, ename, sal, deptid, loc)values('36',	'ename36',	'100',	'6',	'loc6');
+insert into emp1(eid, ename, sal, deptid, loc)values('38',	'ename38',	'100',	'8',	'loc8');
+insert into emp1(eid, ename, sal, deptid, loc)values('69',	'ename69',	'100',	'9',	'loc9');
+insert into emp1(eid, ename, sal, deptid, loc)values('70',	'ename70',	'100',	'0',	'loc0');
+insert into emp1(eid, ename, sal, deptid, loc)values('71',	'ename71',	'100',	'1',	'loc1');
+insert into emp1(eid, ename, sal, deptid, loc)values('73',	'ename73',	'100',	'3',	'loc3');
+insert into emp1(eid, ename, sal, deptid, loc)values('74',	'ename74',	'100',	'4',	'loc4');
+insert into emp1(eid, ename, sal, deptid, loc)values('75',	'ename75',	'100',	'5',	'loc5');
+insert into emp1(eid, ename, sal, deptid, loc)values('76',	'ename76',	'100',	'6',	'loc6');
+insert into emp1(eid, ename, sal, deptid, loc)values('77',	'ename77',	'100',	'7',	'loc7');
+insert into emp1(eid, ename, sal, deptid, loc)values('78',	'ename78',	'100',	'8',	'loc8');
+insert into emp1(eid, ename, sal, deptid, loc)values('79',	'ename79',	'100',	'9',	'loc9');
+insert into emp1(eid, ename, sal, deptid, loc)values('81',	'ename81',	'100',	'1',	'loc1');
